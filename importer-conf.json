@@ -1,0 +1,14 @@
+{
+  "apikey": "bd67b4ab-82ae-42ac-9d38-6baa124aa4d3",
+  "orgs": {
+    "sdb": [
+      "Sports Data Bank",
+      "sdb",
+      "https://www.meertens.knaw.nl/cms/templates/mi_hetgelaat/css/images/meertens_logo.png",
+      "nld",
+      "/Users/vic/Documents/sportsbank/jsondata"
+    ]
+  },
+  "debug": false,
+  "qty": 10
+}

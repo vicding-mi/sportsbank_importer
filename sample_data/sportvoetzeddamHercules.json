@@ -1,0 +1,52 @@
+{
+  "vereniging": {
+    "plaats": "Zeddam", 
+    "gemeente": "bergh", 
+    "gemeente1984": null, 
+    "provincie": {
+      "provincie": "gelderland"
+    }, 
+    "naam": "Hercules", 
+    "opm_naam": null, 
+    "alternatieve_namen": null, 
+    "doelstelling": null, 
+    "begindatum": {
+      "year": "1914", 
+      "month": "4", 
+      "day": null
+    }, 
+    "begindatum_soort": "oudste_vermelding", 
+    "kb": null, 
+    "einddatum": {
+      "year": "1920", 
+      "month": null, 
+      "day": null
+    }, 
+    "einddatum_soort": "laatste_vermelding", 
+    "werkingsgebied": {
+      "werkingsgebied": "lokaal"
+    }, 
+    "sport": {
+      "soort_sport": "voetbal"
+    }, 
+    "landelijke_bond": null, 
+    "regionale_bond": null, 
+    "speeldag": null, 
+    "levensbeschouwing": "Neutraal", 
+    "nr_verenigingsdossier": null, 
+    "relaties": null, 
+    "oprichters": null, 
+    "bestuursleden": null, 
+    "beschermheren": null, 
+    "verantwoording_gegevens": "<p>De Gelderlander 23 apr. 1914, p. 2 (plaats; wedstrijd tegen D.V.C. 2 Doetinchem).</p>\n<p>De Graafschap-bode 17 juni 1919, p. 3 (wedstrijd tegen Misset Doetinchem).</p>\n<p>De Graafschap-bode 20 juli 1920, p. 2 (Hercules Zeddam op toernooi in Etten).</p>", 
+    "archief_geschreven": null, 
+    "archief_objecten": null, 
+    "eigen_gebouw": null, 
+    "vergaderplaats": null, 
+    "literatuur_over": null, 
+    "publicaties_van": null, 
+    "goossens": null, 
+    "opmerkingen": null, 
+    "aantekeningen": null
+  }
+}
